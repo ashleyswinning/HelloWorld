@@ -1,1 +1,1 @@
-# Please note: had to make some updates to original code in HelloEthSalon.sol file (written for 0.4.4 but I altered some of the code to accomodate to for the latest package available under Homebrew, 0.5.0)
+# Please note: had to make some updates to original code in HelloEthSalon.sol file (tutorial was written for 0.4.4 but I altered some of the code to accomodate to for the latest package available under Homebrew, 0.5.0)
