@@ -1,1 +1,21 @@
-# Please note: had to make some updates to original code in HelloEthSalon.sol file (tutorial was written for 0.4.4 but I altered some of the code to accomodate to for the latest package available under Homebrew, 0.5.0)
+# HelloWorld
+Ashley Huynh
+CSC 4980 Assignment #3
+
+# How to Run Programs:
+
+## Prerequisites:
+* ###### Make sure you are in the `HelloWorld/Documents/HelloWorld/hello-ethereum-salon-contract/` directory.
+
+* ###### Make sure you have Truffle version 0.5.0
+
+* ###### Make sure you have `testrpc`. If you don't, run `npm install -g ethereumjs-testrpc`.
+
+## Instructions:
+* Run `truffle compile`
+
+* Run `truffle migrate --reset`
+
+* Now, to run the tests, open a new tab (make sure it's in the `HelloWorld/Documents/HelloWorld/hello-ethereum-salon-contract/` directory still) and run `testrpc`.
+
+* In current tab, still in `HelloWorld/Documents/HelloWorld/hello-ethereum-salon-contract/` directory, run `truffle test test/hello_eth_salon.js` -- this should run all tests (and they should be passing!)
